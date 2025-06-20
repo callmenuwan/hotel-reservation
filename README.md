@@ -11,7 +11,10 @@ Insert gif or link to demo
 
 ## Authors
 
-- [@octokatherine](https://www.github.com/octokatherine)
+- [@callmenuwan](https://github.com/callmenuwan/)
+- [@sonal-sithara](https://github.com/sonal-sithara)
+- [@bhagyadissanayaka](https://github.com/bhagyadissanayaka)
+- [@GDilrukshiSenanayaka](https://github.com/GDilrukshiSenanayaka)
 
 
 
